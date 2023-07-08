@@ -14,7 +14,7 @@
  
  <br>
  
-## se quiser interagir comigo sobre projetos na tecnologia, oportunidades na área de TI e saber mais sobre mim acesse as minhas redes sociais abaixo:
+## Se quiser interagir comigo sobre projetos na tecnologia, oportunidades na área de TI e saber mais sobre mim acesse as minhas redes sociais abaixo:
 
 <div> 
   <a href="https://www.youtube.com/@JhonatasAugusto2002" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
